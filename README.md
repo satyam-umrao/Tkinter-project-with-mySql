@@ -19,7 +19,7 @@ A user-friendly desktop application built using **Python Tkinter** and **MySQL**
 
 | Main Menu | Account Form | Deposit Window |
 |----------|--------------|----------------|
-| ![Main](images/img.png) | ![Form](images/form.png) | ![Success](images/tick.png) |
+| ![Main](images/a.png) | ![Form](images/b.png) | ![Success](images/c.png) |
 
 ---
 
