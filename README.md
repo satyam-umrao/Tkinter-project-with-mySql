@@ -82,7 +82,7 @@ Edit
 - `Data stored in deposit_money table.`
 
 ## 🙋‍♂️ Group project
-Developed by `Satyam Umrao`,`Sanchit` and `Saurabh Yadav`
+Developed by `Satyam Umrao`, [Sanchit](https://github.com/Sanchitumrao) and [Saurabh Yadav]()
 
 
 ---
