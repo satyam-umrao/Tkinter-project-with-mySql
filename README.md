@@ -81,8 +81,8 @@ Edit
 - `Deposit amount into the newly created account.`
 - `Data stored in deposit_money table.`
 
-## 🙋‍♂️ Author
-Developed by `Satyam Umrao`
+## 🙋‍♂️ Group project
+Developed by `Satyam Umrao`,`Sanchit` and `Saurabh Yadav`
 
 
 ---
